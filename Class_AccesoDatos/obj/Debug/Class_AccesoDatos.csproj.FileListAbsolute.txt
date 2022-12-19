@@ -1,0 +1,6 @@
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_AccesoDatos\bin\Debug\Class_AccesoDatos.dll
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_AccesoDatos\bin\Debug\Class_AccesoDatos.pdb
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_AccesoDatos\obj\Debug\Class_AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_AccesoDatos\obj\Debug\Class_AccesoDatos.dll
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_AccesoDatos\obj\Debug\Class_AccesoDatos.pdb
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_AccesoDatos\obj\Debug\Class_AccesoDatos.csprojAssemblyReference.cache

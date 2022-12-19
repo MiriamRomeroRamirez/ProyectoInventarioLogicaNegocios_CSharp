@@ -1,0 +1,11 @@
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_LogicaNegocios\bin\Debug\Class_LogicaNegocios.dll
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_LogicaNegocios\bin\Debug\Class_LogicaNegocios.pdb
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_LogicaNegocios\bin\Debug\Class_AccesoDatos.dll
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_LogicaNegocios\bin\Debug\Class_AccesoDatos.pdb
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_LogicaNegocios\bin\Debug\Class_EntidadesInventario2021.pdb
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_LogicaNegocios\obj\Debug\Class_LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_LogicaNegocios\obj\Debug\Class_LogicaNegocios.csproj.CopyComplete
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_LogicaNegocios\obj\Debug\Class_LogicaNegocios.dll
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_LogicaNegocios\obj\Debug\Class_LogicaNegocios.pdb
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_LogicaNegocios\bin\Debug\Class_EntidadesInventario2021.dll
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_LogicaNegocios\obj\Debug\Class_LogicaNegocios.csprojAssemblyReference.cache

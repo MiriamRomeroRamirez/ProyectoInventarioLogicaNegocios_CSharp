@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PaginaMaestra.Master.cs" Inherits="Web_Inventario2021.PaginaMestra" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link href="Estilos/Estilos.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="CONTENEDOR">
+            <header><img src="Recursos/BANNER.png" id="Banner"></header>
+            <section id="menu">
+                <nav>
+                    <ul>
+                        <li><a href="Pagina_ClienteRegistro.aspx">Clientes</a></li>
+                        <li><a href="Pagina_ProveedorRegistro.aspx">Proveedores</a></li>
+                        <li><a href="Pagina_NotaVenta.aspx">Notas</a></li>
+                        <li><a href="Pagina_ComponenteVendido.aspx">Componentes</a></li>
+                    </ul>
+                </nav>
+            </section>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            <footer>
+                prueba
+        </footer>
+        </div>
+    </form>
+</body>
+</html>

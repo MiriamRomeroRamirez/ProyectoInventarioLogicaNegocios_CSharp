@@ -1,0 +1,5 @@
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_EntidadesInventario2021\bin\Debug\Class_EntidadesInventario2021.dll
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_EntidadesInventario2021\bin\Debug\Class_EntidadesInventario2021.pdb
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_EntidadesInventario2021\obj\Debug\Class_EntidadesInventario2021.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_EntidadesInventario2021\obj\Debug\Class_EntidadesInventario2021.dll
+C:\Users\MIRIAM_RR\Documents\UTP\5° Cuatrimestre\Aplicaciones Web\Inventario_Producto3\Class_EntidadesInventario2021\obj\Debug\Class_EntidadesInventario2021.pdb
